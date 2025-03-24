@@ -11,7 +11,7 @@ function Login() {
 
     return (
         <>
-            <form action="#">
+            <form action="#" target="_blank">
                 <div>
                     <div>
                         <div className="cred-box">
